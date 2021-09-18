@@ -53,6 +53,7 @@ flutter:
   #   - images/a_dot_ham.jpeg
   assets :
     - assets/images/education.png
+    - assets/images/bg.jpg
 
   fonts:
     - family: kanit
